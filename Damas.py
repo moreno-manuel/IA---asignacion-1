@@ -1,6 +1,6 @@
 import pygame
 import copy
-import random
+
 
 
 # evalua el estado del tablero
