@@ -7,4 +7,4 @@ versiones de stack de herramientas usadas
 python 3.12.4
 pygame 2.6.1
 
-ejecutar el script "Dama.py" desde cualquier editor de texto o desde la terminal
+ejecutar el script "Damas.py" desde cualquier editor de texto o desde la terminal
